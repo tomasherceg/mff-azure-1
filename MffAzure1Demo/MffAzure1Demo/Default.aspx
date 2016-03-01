@@ -13,6 +13,8 @@
         <p><%= ConfigurationManager.AppSettings["MySettingValue"] %></p>
         
         <p>I changed this on production branch!</p>
+        
+        <p>New version which goes to staging environment!</p>
     </div>
     </form>
 </body>
