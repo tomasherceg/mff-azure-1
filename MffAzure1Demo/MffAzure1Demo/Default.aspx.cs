@@ -13,5 +13,11 @@ namespace MffAzure1Demo
         {
 
         }
+
+        protected void TestButton_Click(object sender, EventArgs e)
+        {
+            var i = 15;
+            Page.Title = i.ToString();
+        }
     }
 }
