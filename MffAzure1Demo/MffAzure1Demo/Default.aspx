@@ -15,6 +15,8 @@
         <p>I changed this on production branch!</p>
         
         <p>New version which goes to staging environment!</p>
+        
+        <p>Another change</p>
     </div>
     </form>
 </body>
