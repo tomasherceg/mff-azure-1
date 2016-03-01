@@ -11,14 +11,6 @@
     <div>
         <h1>Hello from Azure!!!</h1>
         <p><%= ConfigurationManager.AppSettings["MySettingValue"] %></p>
-        
-        <p>I changed this on production branch!</p>
-        
-        <p>New version which goes to staging environment!</p>
-        
-        <p>Another change</p>
-
-        <asp:Button runat="server" ID="TestButton" OnClick="TestButton_Click"/>
     </div>
     </form>
 </body>

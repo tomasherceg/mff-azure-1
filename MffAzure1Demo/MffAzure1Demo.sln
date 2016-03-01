@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MffAzure1Demo", "MffAzure1Demo\MffAzure1Demo.csproj", "{657E719E-EE0F-4ED3-A435-7E76C1D5F8A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiApp", "ApiApp\ApiApp.csproj", "{0CDF02A9-A530-4026-A1B2-1EE0BDED6805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "ApiClient\ApiClient.csproj", "{73747771-8408-4E1B-8A68-AF2E7FCFAE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{657E719E-EE0F-4ED3-A435-7E76C1D5F8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657E719E-EE0F-4ED3-A435-7E76C1D5F8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657E719E-EE0F-4ED3-A435-7E76C1D5F8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDF02A9-A530-4026-A1B2-1EE0BDED6805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDF02A9-A530-4026-A1B2-1EE0BDED6805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDF02A9-A530-4026-A1B2-1EE0BDED6805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDF02A9-A530-4026-A1B2-1EE0BDED6805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73747771-8408-4E1B-8A68-AF2E7FCFAE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73747771-8408-4E1B-8A68-AF2E7FCFAE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73747771-8408-4E1B-8A68-AF2E7FCFAE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73747771-8408-4E1B-8A68-AF2E7FCFAE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
