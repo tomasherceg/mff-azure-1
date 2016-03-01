@@ -10,7 +10,9 @@
     <form id="form1" runat="server">
     <div>
         <h1>Hello from Azure!!!</h1>
-        <%= ConfigurationManager.AppSettings["MySettingValue"] %>
+        <p><%= ConfigurationManager.AppSettings["MySettingValue"] %></p>
+        
+        <p>I changed this on production branch!</p>
     </div>
     </form>
 </body>
