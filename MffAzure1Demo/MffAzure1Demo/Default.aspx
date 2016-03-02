@@ -13,6 +13,8 @@
         <p><%= ConfigurationManager.AppSettings["MySettingValue"] %></p>
         
         <p>New awesome feature!!!</p>
+        
+        <p>Stage first!!!</p>
     </div>
     </form>
 </body>
