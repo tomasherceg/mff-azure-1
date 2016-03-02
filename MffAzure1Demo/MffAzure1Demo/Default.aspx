@@ -11,6 +11,8 @@
     <div>
         <h1>Hello from Azure!!!</h1>
         <p><%= ConfigurationManager.AppSettings["MySettingValue"] %></p>
+        
+        <p>New awesome feature!!!</p>
     </div>
     </form>
 </body>
